@@ -71,7 +71,7 @@
     }
     html{
         width: 100vw;
-        overflow: hidden;
+        overflow-x: hidden;
     }
     body {
         margin: auto;

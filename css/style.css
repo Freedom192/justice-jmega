@@ -610,6 +610,8 @@ ol {
     position: relative;
     z-index: 1;
     margin-bottom: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .section-heading h2 {
